@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="netbeans">
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/Green.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/SingletonDemo.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/ShapeFactory.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/Circle.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/Red.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/Shape.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/Blue.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/AbstractFactory.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/SingleObj.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/Square.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/Rectangle.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/Color.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/ColorFactory.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/FactoryProducer.java</file>
+            <file>file:/D:/workbench/netbeans/Patterns/src/com/tc/oo/creational/AbstractFactoryPatternDemo.java</file>
+        </group>
+    </open-files>
+</project-private>
